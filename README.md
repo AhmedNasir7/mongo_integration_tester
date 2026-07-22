@@ -1,3 +1,6 @@
+# To start mongo server after setup run : mongod --dbpath ./data
+# (optional) connect with mongo compass with the gui provided
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
